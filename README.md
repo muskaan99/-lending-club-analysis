@@ -1,4 +1,4 @@
-# -lending-club-analysis
+# lending-club-analysis
 Lending Club Analysis
 
 ## Lending Club Dataset
